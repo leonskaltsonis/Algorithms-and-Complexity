@@ -1,2 +1,1 @@
-# Algorithms-and-Complexity
-Αλγόριθμοι και Πολυπλοκότητα
+<center><h1>Αλγόριθμοι και Πολυπλοκότητα</h1></center>
