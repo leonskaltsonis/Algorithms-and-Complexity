@@ -2,7 +2,7 @@
 ### Λεωνίδας Σκαλτσώνης
 ### Τμήμα Πληροφορικής και Τηλεπικοινωνιών
 
-<img src="https://www.bigocheatsheet.com/img/big-o-cheat-sheet-poster.png" width="100%" height="35%">
+<img src="https://img.memecdn.com/i-have-no-idea_o_1043684.jpg" width="100%" height="35%">
 
 ```markdown
 Το πρόβλημα του χρωματισμού γραφήματος είναι ένα NP-hard πρόβλημα συνδυαστικής βελτιστοποίησης. 
